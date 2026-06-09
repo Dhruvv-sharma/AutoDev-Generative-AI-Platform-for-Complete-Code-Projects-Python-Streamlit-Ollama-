@@ -1,0 +1,6 @@
+https://ollama.com/download
+pip install streamlit ollama
+ollama pull llama3
+ollama pull codellama
+ollama serve
+streamlit run app4.py
