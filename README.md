@@ -1,0 +1,2 @@
+# AutoDev-Generative-AI-Platform-for-Complete-Code-Projects-Python-Streamlit-Ollama-
+Built an AI-powered project generation platform using Python, Streamlit, and Ollama (Llama 3). Automated code generation, project structuring, README creation, dependency detection via Regex, requirements.txt generation, and ZIP packaging, enabling instant download of complete production-ready projects across multiple languages.
